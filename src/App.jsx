@@ -23,7 +23,7 @@ const App = () => {
           show={showPopup}
           onClose={handleClosePopup}
           studentName="Rameshwar Katinath Khot"
-          studentPhotoUrl="C:\main-react-app\public\images\ram.jpeg.jpeg" // Path to their photo
+          studentPhotoUrl="\images\ram.png" // Path to their photo
           uniqueMessage="Learned so much during this OJT! This app showcases my independent coding and deployment skills"
         />
       </div>
